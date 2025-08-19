@@ -1,0 +1,6 @@
+- le livre intituler: livre 1, par l'écrivaint: auteur1, posséde l'ISBN suivant: isbn1, publier en 2001 et du genre: genre1
+- le livre intituler: livre2, par l'écrivaint: auteur2, posséde l'ISBN suivant: isbn2, publier en 2009 et du genre: genre2
+- le livre intituler: mmmmmmmm, par l'écrivaint: mmmmmmmm, posséde l'ISBN suivant: mmmmmmm, publier en 2014 et du genre: ooooooo
+- le livre intituler: livre6, par l'écrivaint: auteur6, posséde l'ISBN suivant: isbn6, publier en 1997 et du genre: genre6
+- le livre intituler: livre, par l'écrivaint: auteur, posséde l'ISBN suivant: isbn, publier en 2006 et du genre: genre
+- le livre intituler: livre99, par l'écrivaint: auteur54, posséde l'ISBN suivant: 65230023, publier en 2017 et du genre: genre25
