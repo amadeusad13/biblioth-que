@@ -150,7 +150,7 @@ public class main {
 		//////////////////////////////////SEARCH////////////////////////
 		else if (Cond==4)
 		{
-			System.out.println("-------------rentrer le titre du livre que vous rechercher:");
+			System.out.println("-------------rentrer le titre du livre que vous rechercher:---------");
 			String srch; 
 			srch=sc.nextLine();
 			gl.rechercheLivreParTitre(srch,gl.getnbr());
